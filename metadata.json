@@ -1,0 +1,6 @@
+{
+  "name": "VitaHero: Petualangan Kesehatan",
+  "description": "Game edukasi dan aksi kesehatan interaktif dengan pertahanan imunitas, simulasi gizi seimbang, kuis mitos medis, dan tantangan gaya hidup sehat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
